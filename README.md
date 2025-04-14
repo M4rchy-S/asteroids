@@ -3,4 +3,4 @@ Famous old game. Made for fun with raylib.
 
 <h2>Screenshot</h2>
 
-![example1](https://github.com/user-attachments/assets/26c87db3-bbcd-49a8-b25c-430e5fe573dc)
+![example1](https://github.com/user-attachments/assets/fa821dde-702a-4459-8b9d-aaf2bdc624c2)
